@@ -6,7 +6,7 @@ function App() {
 
 
   return (
-    <div className='flex flex-col'>
+    <div className='flex flex-col border container mx-auto'>
 
       <Header />
       <Hero/>
