@@ -10,7 +10,7 @@ const Header = () => {
       />
       <Nav />
       <button
-        className="w-[75px] h-[31px] mt-[21px] p-{6} {16} bg-redColor border text-textColor font-inter texy-base font-semibold "
+        className="w-[75px] h-[31px] mt-[21px] p-{6} {16} bg-redColor border text-textColor font-inter texy-base font-semibold  leading-5"
       >
         Login
       </button>
