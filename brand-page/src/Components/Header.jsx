@@ -2,7 +2,7 @@ import nike from '../assets/nike.png';
 import Nav from './Nav';
 const Header = () => {
   return (
-    <div className="flex flex-row h-[72px] justify-between w-[1440px] m-1">
+    <div className="flex flex-row h-[72px] justify-between w-[1440px]">
       <img
         src={nike}
         alt="nike image"
