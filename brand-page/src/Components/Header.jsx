@@ -9,7 +9,6 @@ const Header = () => {
         className="w-[76px] h-[42px] mt-[15px] ml-[85px]"
       />
       <Nav />
-      <h1>Hello</h1>
       <button
         className="w-[75px] h-[31px] mt-[21px] p-{6} {16} bg-redColor border text-textColor font-inter texy-base font-semibold "
       >
