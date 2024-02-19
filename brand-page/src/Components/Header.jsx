@@ -1,4 +1,5 @@
 import nike from '../assets/nike.png';
+import React from 'react';
 import Nav from './Nav';
 const Header = () => {
   return (
